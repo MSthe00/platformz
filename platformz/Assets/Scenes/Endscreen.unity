@@ -125,7 +125,7 @@ GameObject:
   - component: {fileID: 39115532}
   - component: {fileID: 39115531}
   m_Layer: 5
-  m_Name: Gamename
+  m_Name: Timedisplay
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -364,6 +364,20 @@ Prefab:
         type: 2}
       propertyPath: m_Pivot.y
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114692129838594682, guid: 480adf54a635fc54d994a1321b5d148e,
+        type: 2}
+      propertyPath: endscore
+      value: 
+      objectReference: {fileID: 39115532}
+    - target: {fileID: 1111352688609720, guid: 480adf54a635fc54d994a1321b5d148e, type: 2}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114957776148175864, guid: 480adf54a635fc54d994a1321b5d148e,
+        type: 2}
+      propertyPath: m_Color.a
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 480adf54a635fc54d994a1321b5d148e, type: 2}

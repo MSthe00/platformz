@@ -253,6 +253,40 @@ Prefab:
       propertyPath: m_Pivot.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 224139346692763934, guid: 8ea54cdcbeaa2544a9ba08fbe77db78c,
+        type: 2}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224528898946033314, guid: 8ea54cdcbeaa2544a9ba08fbe77db78c,
+        type: 2}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1650790657717750, guid: 8ea54cdcbeaa2544a9ba08fbe77db78c, type: 2}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114924517605205692, guid: 8ea54cdcbeaa2544a9ba08fbe77db78c,
+        type: 2}
+      propertyPath: m_Text
+      value: LEVEL
+      objectReference: {fileID: 0}
+    - target: {fileID: 114101806795157598, guid: 8ea54cdcbeaa2544a9ba08fbe77db78c,
+        type: 2}
+      propertyPath: m_Text
+      value: COMPLETE
+      objectReference: {fileID: 0}
+    - target: {fileID: 114800656384083000, guid: 8ea54cdcbeaa2544a9ba08fbe77db78c,
+        type: 2}
+      propertyPath: m_Text
+      value: LEVEL
+      objectReference: {fileID: 0}
+    - target: {fileID: 114803278506390176, guid: 8ea54cdcbeaa2544a9ba08fbe77db78c,
+        type: 2}
+      propertyPath: m_Text
+      value: FAILED
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 8ea54cdcbeaa2544a9ba08fbe77db78c, type: 2}
   m_IsPrefabParent: 0
@@ -669,7 +703,7 @@ Prefab:
     - target: {fileID: 224819229855047510, guid: 480adf54a635fc54d994a1321b5d148e,
         type: 2}
       propertyPath: m_RootOrder
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 224819229855047510, guid: 480adf54a635fc54d994a1321b5d148e,
         type: 2}
